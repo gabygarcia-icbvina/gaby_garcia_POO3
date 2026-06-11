@@ -73,5 +73,5 @@ Se puede apreciar en el codigo anterior siendo una plantilla del resto de Metodo
    funcionando de forma controlada sin errores inesperados.
 
 ---
-Visita nuestra librería de CryptoMania en: [[](https://pypi.org/project/Cryptomania/0.1.0/)]
+Visita nuestra librería de CryptoMania en: [(https://pypi.org/project/Cryptomania/0.1.0/)]
 
