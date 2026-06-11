@@ -71,3 +71,7 @@ Se puede apreciar en el codigo anterior siendo una plantilla del resto de Metodo
 6. El menú de consola debe incluir como mínimo las opciones de
    encriptar un mensaje, mostrar el resultado y salir del sistema,
    funcionando de forma controlada sin errores inesperados.
+
+---
+Visita nuestra librería de CryptoMania en: [[](https://pypi.org/project/Cryptomania/0.1.0/)]
+
